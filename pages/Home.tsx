@@ -22,7 +22,7 @@ const Home: FC<PropsTypes> = (props) => {
         variant="primary"
       >
         <Tab.Item
-          title={'User'}
+          title={'Profile'}
           titleStyle={{ fontSize: 16 }}
         />
         <Tab.Item
