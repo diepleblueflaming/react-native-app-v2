@@ -50,7 +50,7 @@ const Styles = StyleSheet.create({
     marginLeft: 16,
     position: 'absolute',
     top: -40,
-    resizeMode: 'contain'
+    resizeMode: 'cover'
   },
   name: {
     fontSize: 24,
@@ -58,7 +58,7 @@ const Styles = StyleSheet.create({
   },
   image: {
     flex: 1,
-    resizeMode: 'contain',
+    resizeMode: 'cover',
     justifyContent: 'flex-end',
   },
 })
